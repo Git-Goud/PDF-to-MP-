@@ -24,4 +24,4 @@ This program was inspired by the tutorial by Tiff In Tech.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the [MIT License](https://github.com/username/repo-name/blob/main/LICENSE).
